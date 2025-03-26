@@ -8,7 +8,6 @@ dependencies:
   - _anaconda_depends
   - python=3.12
   - setuptools
-  - pip
   - wheel
   - anaconda-anon-usage
   - anaconda-catalogs

@@ -24,4 +24,15 @@ dependencies:
   - conda-token
   - anaconda_prompt
   - anaconda_powershell_prompt
+  - pandas
+  - matplotlib
+  - numpy
+  - scikitlearn
+  - scipy
+  - IPython
+  - seaborn
+  - ipywidgets
+  - random
+  - sklearn
+  - warnings
 prefix: C:\ProgramData\anaconda3

@@ -2,13 +2,14 @@ name:  bank environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
+  - python=3.12
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - seaborn
+  - matplotlib
+  - numpy
+  - ipywidgets
+  - skylearn
+  - scipy
+  - IPython
+  - warnings
+  - random
